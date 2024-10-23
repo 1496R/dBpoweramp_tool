@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Ripping_auxiliarytool/1.0.0": {
+        "runtime": {
+          "Ripping_auxiliarytool.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ripping_auxiliarytool/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
